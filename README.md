@@ -14,7 +14,7 @@ basic quantum gates to implementing variational algorithms.
 
 **Timeline:** May 2026 - March 2027 (8 months)
 
-**Learning Resources:**
+### **Learning Resources:**
 - Qiskit Textbook
 - "Introduction to Quantum Mechanics" by Griffiths
 - IBM Quantum Documentation
