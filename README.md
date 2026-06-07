@@ -23,6 +23,7 @@ basic quantum gates to implementing variational algorithms.
 
 ### Recent Updates 
 - **2026-05-18:** Implemented Bell state with visualization / Set up Qiskit environment
+- **2026-06-08:** Study Qiskit Statevector and Operator basics / Qiskit circuits
 
 
 ## 📚 Theoretical Foundation 📚
