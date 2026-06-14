@@ -24,6 +24,7 @@ basic quantum gates to implementing variational algorithms.
 ### Recent Updates 
 - **2026-05-18:** Implemented Bell state with visualization / Set up Qiskit environment
 - **2026-06-08:** Study Qiskit Statevector and Operator basics / Qiskit circuits
+- **2026-06-15:** Study Qiskit Mulitple Systems / Partial Measurements
 
 
 ## 📚 Theoretical Foundation 📚
@@ -33,5 +34,8 @@ Parallel study of quantum mechanics theory:
 - The Feynman "Letures On Physics" - Finished
 
 **Concepts Mastered:**
-- Wave-particle duality
-- Schrödinger equation
+- Wave-particle duality / Wave Function
+- Probability
+- Normalization
+- Schrödinger equation - Time Independent + Time Dependent
+- The Harmonic Oscillator in Quantum
