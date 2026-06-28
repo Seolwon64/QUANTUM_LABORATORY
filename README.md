@@ -26,6 +26,7 @@ basic quantum gates to implementing variational algorithms.
 - **2026-06-08:** Study Qiskit Statevector and Operator basics / Qiskit circuits
 - **2026-06-15:** Study Qiskit Mulitple Systems / Partial Measurements
 - **2026-06-21 + 22:** Study Quantum circuits / Quantum teleportation / CHSH Game
+- **2026-06-27 + 28:** Teleportation Protocol / CHSH Game
 
 
 ## 📚 Theoretical Foundation 📚
