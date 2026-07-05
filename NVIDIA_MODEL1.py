@@ -8,7 +8,7 @@ def read_b64(path):
     return base64.b64encode(f.read()).decode()
 
 headers = {
-  "Authorization": "Bearer ",
+  "Authorization": "Bearer TOKEN HIDDEN ",
   "Accept": "text/event-stream" if stream else "application/json"
 }
 
