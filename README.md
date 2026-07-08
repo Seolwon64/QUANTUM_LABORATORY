@@ -28,6 +28,7 @@ basic quantum gates to implementing variational algorithms.
 - **2026-06-21 + 22:** Study Quantum circuits / Quantum teleportation / CHSH Game
 - **2026-06-27 + 28:** Teleportation Protocol / CHSH Game
 - **2026-07-03 + 05:** Using Real IBM Quantum Computer
+- **2026-07-08:** Hamiltonian Simulation
 
 
 ## 📚 Theoretical Foundation 📚
@@ -35,6 +36,7 @@ Parallel study of quantum mechanics theory:
 - Griffiths "Introduction to Quantum Mechanics" - Ongoing
 - Susskind "Theoretical Minimum" - Finished
 - The Feynman "Letures On Physics" - Finished
+- Gilbert Strang "Introduction to Linear Algebra" - Ongoing
 
 **Concepts Mastered:**
 - Wave-particle duality / Wave Function
