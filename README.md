@@ -30,6 +30,8 @@ basic quantum gates to implementing variational algorithms.
 - **2026-07-03 + 05:** Using Real IBM Quantum Computer
 - **2026-07-08:** Hamiltonian Simulation
 - **2026-07-11 + 12:** Quantum Coin Simulation in 2D, 3D, Bloch Sphere
+- **2026-07-18 + 19:** Creating QuantumTools.com Website
+- **2026-07-18 + 19:** Fixing Website / Stern Gerlach Experiments
 
 
 ## 📚 Theoretical Foundation 📚
