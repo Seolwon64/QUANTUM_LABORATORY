@@ -32,6 +32,8 @@ basic quantum gates to implementing variational algorithms.
 - **2026-07-11 + 12:** Quantum Coin Simulation in 2D, 3D, Bloch Sphere
 - **2026-07-18 + 19:** Creating QuantumTools.com Website
 - **2026-07-25 + 26:** Fixing Website / Stern Gerlach Experiments
+- **2026-08-01 + 02:** Quantum Tools Error Fixing
+- **2026-08-08 + 09:** Learning Uncertainty using Qiskit
 
 
 ## 📚 Theoretical Foundation 📚
