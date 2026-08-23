@@ -34,6 +34,8 @@ basic quantum gates to implementing variational algorithms.
 - **2026-07-25 + 26:** Fixing Website / Stern Gerlach Experiments
 - **2026-08-01 + 02:** Quantum Tools Error Fixing
 - **2026-08-08 + 09:** Learning Uncertainty using Qiskit
+- **2026-08-15 + 16:** Bell's Inequality with Qiskit
+- **2026-08-22 + 23:** Fixing Quantum Tools Project Vibe Coding to Harness Coding
 
 
 ## 📚 Theoretical Foundation 📚
