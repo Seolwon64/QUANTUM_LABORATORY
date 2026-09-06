@@ -36,7 +36,8 @@ basic quantum gates to implementing variational algorithms.
 - **2026-08-08 + 09:** Learning Uncertainty using Qiskit
 - **2026-08-15 + 16:** Bell's Inequality with Qiskit
 - **2026-08-22 + 23:** Fixing Quantum Tools Project Vibe Coding to Agentic Coding
-- **2026-08-29 + 30:** TOEFL Test Day + Vacation!
+- **2026-08-29 + 30:** Vacation!
+- **2026-09-05 + 06:** Fixing My IBM Cloud Account - Not Working Properly
 
 
 ## 📚 Theoretical Foundation 📚
